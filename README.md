@@ -84,7 +84,3 @@ The repository is organized as follows:
 - **Kubernetes Dashboard:** Use the Dashboard to monitor and manage the Kubernetes cluster.
 - **Apache Airflow:** Access the Airflow web UI to manage, schedule, and monitor workflows.
 
-## Video
-For a complete walkthrough and practical demonstration, check out the video here: 
-[![Kubernetes for Modern Data Engineering](https://img.youtube.com/vi/ISftrpAImHA/0.jpg)](https://youtu.be/ISftrpAImHA)
-
