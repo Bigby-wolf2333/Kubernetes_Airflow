@@ -1,0 +1,12 @@
+fernetKey: 81NqLJrLHR_2sE--KqQMBc_FqLy4rudSC9ZoLt1EAhQ=
+webserverSecretKey: NuIj-IZrHqHy0u8OB5OicjgPosJ-NU-5tiKviz2wf5k=
+
+dags:
+  gitSync:
+    enabled: true
+    repo: https://github.com/Bigby-wolf2333/Kubernetes-For-DataEngineering.git
+    branch: main
+    rev: HEAD
+    depth: 1
+    maxFailures: 0
+    subPath: "dags"
